@@ -1,6 +1,5 @@
 # farsicarplatedetection
-Run main.py with first prameter as JPG input image
-\n
+Run main.py with first prameter as JPG input image.
 Dependencies:
  1. openCV
  2. numpy
